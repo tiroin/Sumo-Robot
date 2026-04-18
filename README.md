@@ -76,6 +76,6 @@ Better opponent tracking algorithm
 Faster sensor response
 Machine learning strategy (advanced)
 Wireless debugging (Bluetooth / WiFi)
-👤 Author
 
+👤 Author
 Nguyễn Văn Quý
