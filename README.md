@@ -34,6 +34,7 @@ Start
   │       └── NO  → Continue
   │
   └── Loop continuously
+  
   🛠️ Hardware Components
   | Component                        | Description         |
 | -------------------------------- | ------------------- |
