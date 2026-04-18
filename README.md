@@ -44,18 +44,21 @@ Start
 | Ultrasonic / IR Sensors          | Opponent detection  |
 | Battery                          | Power supply        |
 | Chassis                          | Robot frame         |
+
 🔌 Pin Configuration
 | Pin           | Function               |
 | ------------- | ---------------------- |
 | Motor IN1/IN2 | Left motor             |
 | Motor IN3/IN4 | Right motor            |
 | Sensor pins   | IR / ultrasonic inputs |
+
 📦 Installation
 Install Arduino IDE
 Open file:
 sumo.ino
 Select board and COM port
 Upload code to Arduino
+
 ▶️ Usage
 Power on robot
 Place inside sumo ring
